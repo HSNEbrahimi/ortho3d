@@ -20,4 +20,10 @@
   - Integrated:  
     - **Move**  
     - **Rotate**  
-    - **Scale**  
+    - **Scale**
+   
+- **6. Start Page**  
+  - Recent Items:  
+    - List of recently opened projects/files.
+  - Project Type Items: 
+    - Templates/categories for new projects (e.g., "Clon repository," "AI analyzes") 
