@@ -27,3 +27,8 @@
     - List of recently opened projects/files.
   - Project Type Items: 
     - Templates/categories for new projects (e.g., "Clon repository," "AI analyzes") 
+- **7. PLY and STP import ability**  
+  - PLY models:  
+    - Added the ability to import both ASCII and binary PLY models.
+  - STP models: 
+    - Added the ability to import both ASCII and binary STP models. 
