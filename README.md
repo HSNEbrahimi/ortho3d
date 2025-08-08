@@ -31,4 +31,15 @@
   - PLY models:  
     - Added the ability to import both ASCII and binary PLY models.
   - STP models: 
-    - Added the ability to import both ASCII and binary STP models. 
+    - Added the ability to import both ASCII and binary STP models.
+- **8. Adding a toolbar UI**
+- **9.Adding a brush with the following capabilities:**
+  - Increase height
+  - Decrease height
+  - Smooth surface
+  - Flatten surface
+  - Restore surface
+  - Brush settings
+  - Brush UI
+- **10 Customized Messagebox UI**
+- **11 Basic UI for maxillary and mandibular**
