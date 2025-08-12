@@ -43,3 +43,10 @@
   - Brush UI
 - **10 Customized Messagebox UI**
 - **11 Basic UI for maxillary and mandibular**
+- **12 PLY Vertex Color Rendering**
+  - Displays color data from 3D scans (e.g., showing tooth shades in intraoral scans)
+- **13 Jaw Pairing System**
+  - Connects upper/lower jaws to simulate biting (e.g., testing tooth alignment during treatment planning)
+- **14 Selective Jaw Transparency**
+  - Toggles jaw visibility for focused editing (e.g., hiding upper jaw to work on lower teeth)
+    
