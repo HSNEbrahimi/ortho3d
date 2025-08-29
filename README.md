@@ -49,4 +49,16 @@
   - Connects upper/lower jaws to simulate biting (e.g., testing tooth alignment during treatment planning)
 - **14 Selective Jaw Transparency**
   - Toggles jaw visibility for focused editing (e.g., hiding upper jaw to work on lower teeth)
-    
+- **15 Model Finder and Unifier**
+  - Added functionality to automatically locate and merge orthodontic models.
+- **16 Customizable Cutting Planes**
+  - Introduced interactive cutting surfaces with user-defined, draggable vertices.
+- **17 Enhanced Textures**
+  - Improved the visual realism of tooth and gum textures.
+- **18 Scan Completion Algorithm**
+  - New feature to automatically fill holes and cavities in incomplete 3D dental scans.
+- **19 Patient Information Form**
+  - Implemented a dedicated form for managing patient data.
+- **20 Native Project Files**
+  - The software now supports saving and loading progress using the proprietary .o3d file format.
+  
